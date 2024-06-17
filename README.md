@@ -5,4 +5,4 @@ description
 website portfolio
 
 
-link: https://conrad619.github.io/Portfolio
+link: https://conrad619.github.io/portfolio
